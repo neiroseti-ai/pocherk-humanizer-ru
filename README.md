@@ -1,7 +1,7 @@
 # Почерк — хьюманайзер для русского текста (Claude Skill · humanizer-ru)
 
-
 ![Почерк — хьюманайзер для русского текста](docs/social-preview.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Claude Code](https://img.shields.io/badge/Claude_Code-skill-8c70ff) ![Language](https://img.shields.io/badge/язык-русский-blue) [![Скачать](https://img.shields.io/badge/скачать-v1.0-ffe066)](https://github.com/neiroseti-ai/pocherk-humanizer-ru/releases/latest)
 
 **Как убрать признаки нейросети из русского текста и не потерять смысл.** «Почерк» — бесплатный скилл для Claude Code (формат Agent Skills, `SKILL.md`). Он переписывает текст ChatGPT, Claude, GigaChat или YandexGPT так, чтобы ушла машинная подача — рекламная рамка, эмодзи-списки, мораль в конце, двоеточия-ярлыки, «Таким образом», канцелярит, — а **факты, числа и мнение автора остались на месте**. Скрипт проверки это контролирует.
